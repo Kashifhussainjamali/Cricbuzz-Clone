@@ -1,0 +1,13 @@
+.ul{
+    display: flex;
+    list-style: none;
+    margin-left: 160px;
+    
+}
+a{
+    text-decoration: none;
+    font-size: 15px;
+}
+.listitem{
+    margin-left: 10px;
+}

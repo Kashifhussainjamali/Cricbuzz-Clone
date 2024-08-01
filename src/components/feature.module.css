@@ -1,0 +1,36 @@
+.img1{
+    margin-top: 30px;
+}
+.img1:hover{
+    transform: scale(1.1);
+    transition-duration:1s ;
+}
+.pics{
+    margin-left: 60px;
+}
+.div{
+    position:absolute;
+    width: 1px;
+    height: 1180px;
+    background-color: silver;
+    top:273px;
+    right: 450px;
+}
+.text{
+    color: #009270;
+    margin-left: 60px;
+    margin-top: 40px;
+    font-size: 18px;
+    margin-bottom: 0px;
+}
+.more{
+    background-color:  #009270;
+    color: white;
+    border: none;
+    margin-left: 150px;
+    margin-top: 20px;
+    height: 40px;
+    font-size: 15px;
+    width: 130px;
+    border-radius: 2px;
+}

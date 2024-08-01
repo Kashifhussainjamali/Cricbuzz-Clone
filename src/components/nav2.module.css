@@ -1,0 +1,25 @@
+.matches{
+    display: flex;
+
+}
+.matces_data{
+    font-size: 13px;
+    text-decoration: none;
+    margin: 9px;
+    color: white;
+    height: 20px;
+}
+#main{
+    margin-left: 145px;
+    background-color: rgb(54, 54, 54);
+    width: 1050px;
+}
+#mtch{
+    color: white;
+    font-size: 14px;
+}
+#all{
+    color: white;
+    margin-left: 200px;
+    
+}

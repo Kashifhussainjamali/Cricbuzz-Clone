@@ -1,0 +1,30 @@
+.main{
+    display: flex;
+    background-color: rgba(74,74,74,255);
+    padding: 30px;
+    padding-left: 270px;
+    margin-top: 30px;
+}
+.th{
+    margin-left: 30px;
+    color: white;
+    padding-left: 60px;
+    padding-bottom: 20px;
+    background-color: rgba(74,74,74,255);
+
+}
+.td{
+    margin-left: 30px;
+    color: white;
+    padding-left: 60px;
+    padding-bottom: 10px;
+    background-color: rgba(74,74,74,255);
+}
+.tr{
+    background-color: rgba(74,74,74,255);
+}
+.last{
+    color: rgb(207, 207, 207);
+    font-size: 14px;
+    margin-top: 30px;
+}

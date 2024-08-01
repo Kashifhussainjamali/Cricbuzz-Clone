@@ -1,0 +1,19 @@
+#main{
+    margin-left: 145px;
+}
+#text{
+    font-size: 15px;
+}
+#current{
+    font-size: 15px;
+    color: #009270;
+    font-weight: bold;
+}
+.div{
+    height: 2px;
+    width: 118px;
+    margin-top: 2px;
+    background-color: #009270;
+    margin-bottom: 0;
+    padding-bottom: 0;
+}

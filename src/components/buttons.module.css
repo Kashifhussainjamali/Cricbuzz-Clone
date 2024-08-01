@@ -1,0 +1,23 @@
+.main{
+    list-style: none;
+    display: flex;
+    margin-left: 150px;
+}
+.button1{
+    background-color: #009270;
+    font-size: 12px;
+    border: none;
+    border-radius: 15px;
+    padding: 3px;
+    width: 90px    ;
+    color: white;
+}
+.button{
+    background-color: #99c9bd;
+    font-size: 12px;
+    border: none;
+    border-radius: 15px;
+    padding: 3px;
+    width: 90px ;
+    margin-left: 15px;
+}
